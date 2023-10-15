@@ -5,202 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="unversion viles">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Teaching-Python1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JK-Sat-S2/Lesson1/first.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JK-Sat-S2/Lesson_1/firstamel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Lesson1/arithmetics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Lesson1/comparison_aldan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Lesson1/excerise_arithmetics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Lesson1/lesson1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/New Matthew.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Restaurant/csd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Restaurant/main restaurant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Restaurant/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/Lesson4/if_cond.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/Lesson4/ifelif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/Lesson4/laamp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/Lesson4/latelif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/Lesson4/latihan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson1/Lesson1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson1/lesson1_daifah.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson11/image1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson11/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson11/windowWithButton.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson11/windowWithImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson11/windowWithLabel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson12/input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/CheckBox_AtharCatchup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/checkbox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/comboBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/lambda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson13/textArea.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/DisplayMessageBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/MenuBar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/MenubarwSubMenu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/MessageBoxwithValue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/MultipleWindows.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson14/Pop-upWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson15/arithmaatics_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson15/athar_calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson15/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson15/eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson15/messageBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson16/ErrorHandling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson16/LinkConvert-TKINTER.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson16/LinkShortner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson17/translator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson2/assigment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson2/comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson2/exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson2/logical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson3/eercise1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson3/guessthenumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson3/ls_random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson5/func_exer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson5/functiion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson5/functionWithReturn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson5/loopingInArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson6/forloops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson6/latihan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson6/whileloops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson7/Lesson7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson7/exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson7/my_first_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson8/exc1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson8/exc2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson8/exc3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson8/exc4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson9/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson9/exc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SAT-13/lesson9/guessing_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/exercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/Buttons.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/Label.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/buttonsWithAction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/creatingWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/gridPlacement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson11/placement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/InputField.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/R_Spinner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/R_entryField.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/R_radioBtn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/SpinnerInput.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/entryMethod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/radioButton.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson12/radioButtonWithValue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson13/1_checkbox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson13/2_combobox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson13/3_textArea.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson13/R_Checkbox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson13/R_combobox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson14/MessageBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson14/menuBar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson14/multipleWindows.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson14/popUpWin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson15/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson15/eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson16/Error Handling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson16/LinkShortener.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson16/linkShortenerwithTKINTER.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson17/translator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson1_roger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson1_vio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2/assignment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2/comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2/exercise_comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2/logical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2roger/assigment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2roger/comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson2roger/logical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson3/excercise33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson3/randrange random lala.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson4/excersize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson4/if_cond.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/bread_recipe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/functWreturn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/functionn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/funtionWparameter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/elif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/funct_w.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/new.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/randomm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/old/ret_funct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson5/volume_bangun_ruang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson6/forloop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson6/sapaan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson6/vol_bangun_ruang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson6/whileLoops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson7/arrayWlooping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson7/exc7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson7/my_first_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson8/dice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson8/exc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson8/headOrTail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson9/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson9/exc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/lesson9/guessingGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/random pilihan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/SUN-14/randoms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/Sumba.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson5/functWparameter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson5/functWreturn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson5/functiWreturn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson5/functiion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson5/recur.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson6/forLoo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/Lesson6/whileLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/TextArea_Athar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/aldan_lesson1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/comboBox_athar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/CreatingWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/GridPlacement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/buttons.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/buttonsWithAction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/creatingLabel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson11/placePlacement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson12/inputField.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson14/MenuBar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson15/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson1_athar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson2/assigment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson2/comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson2/exc_comp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson2/logical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson3/inirandom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson3/masuk akun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson4/iff.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson7/exc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson7/my_first_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson8/HoT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson8/dice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson8/exc8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson8/head or tails.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson9/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/THU-13/lesson9/guessingGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/about it too wbk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/about it too.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/about it.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/athar py.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/blank func.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/last.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/lesson_1/arithmetics_operation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/lesson_1/concatenation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/lesson_1/data_conversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/lesson_1/variable_and_data_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/test if.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/wbkkk.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/GuessingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/magicalCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trying-Things/form submission.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term A+/about it too.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/about it too.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Term A+/about it.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/about it.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,15 +58,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\Trying-Things" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SUN-14\lesson17" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SUN-14" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SAT-13" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\THU-13" />
-      <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SUN-14\lesson8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Assigment">
-    <configuration name="Assigment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.form submission">
+    <configuration name="GuessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/Assigment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/GuessingGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PasswordComparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="comparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="H:\Other computers\My laptop\Koding Next\Teaching-Python1\JK-Sat-S2\Lesson2\PasswordComparation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/comparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PasswordLogic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="form submission" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/PasswordLogic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/form submission.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comparationProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/comparationProject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logicOp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="magicalCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/logicOp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/magicalCalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Assigment" />
-        <item itemvalue="Python.PasswordLogic" />
-        <item itemvalue="Python.logicOp" />
-        <item itemvalue="Python.PasswordComparation" />
-        <item itemvalue="Python.comparationProject" />
+        <item itemvalue="Python.form submission" />
+        <item itemvalue="Python.comparation" />
+        <item itemvalue="Python.GuessingGame" />
+        <item itemvalue="Python.magicalCalculator" />
+        <item itemvalue="Python.input" />
       </list>
     </recent_temporary>
   </component>
@@ -378,6 +190,15 @@
       <option name="presentableId" value="Default" />
       <updated>1679899435974</updated>
     </task>
+    <task id="LOCAL-00001" summary="unversion viles">
+      <option name="closed" value="true" />
+      <created>1697250866106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697250866106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
