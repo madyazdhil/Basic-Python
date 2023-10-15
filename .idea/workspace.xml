@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="unversion viles">
-      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/GuessingGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson3/magicalCalculator.py" afterDir="false" />
+    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="kelas JK - Sat - S2">
       <change afterPath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Trying-Things/form submission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/about it too.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/about it too.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Term A+/about it.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/about it.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Koding Next/Teaching-Python2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Koding Next/Teaching-Python2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\Trying-Things" />
@@ -182,6 +181,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Koding Next\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="" />
@@ -198,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697250866106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="unversion viles">
+      <option name="closed" value="true" />
+      <created>1697338356831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697338356831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="kelas JK - Sat - S2">
+      <option name="closed" value="true" />
+      <created>1697338405041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697338405041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +224,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -214,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="unversion viles" />
-    <option name="LAST_COMMIT_MESSAGE" value="unversion viles" />
+    <MESSAGE value="kelas JK - Sat - S2" />
+    <option name="LAST_COMMIT_MESSAGE" value="kelas JK - Sat - S2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
