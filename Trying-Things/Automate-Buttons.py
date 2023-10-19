@@ -3,8 +3,9 @@ import tkinter as tk
 
 # Define the links for each lesson
 lessons = {
-    1: ['http://www.lesson1link1.com', 'http://www.lesson1link2.com', 'http://www.lesson1link3.com'],
-    2: ['http://www.lesson2link1.com', 'http://www.lesson2link2.com', 'http://www.lesson2link3.com'],
+    "Trial": ['https://scratch.mit.edu/projects/812789044/', 'https://docs.google.com/presentation/d/13e4YteV7w9O6iRf6ZD25qS4cZ5QY0v5-/edit#slide=id.p1', 'https://scratch.mit.edu/projects/812789991/','https://docs.google.com/presentation/d/1389gOOwuTP5CMpud7Fl5_WEF155sWoa3i6A-PIQl7vw/edit#slide=id.p1'],
+    1: ['https://docs.google.com/presentation/d/1Vem8ywOTnmqnPrUFmBzVgMGwDu37eZqx/edit#slide=id.p1', 'https://scratch.mit.edu/projects/805576673'],
+    2: ['https://docs.google.com/presentation/d/1fNr-l5t697RJLrtRifyvtPeVQShNRweq/edit?usp=sharing&ouid=110407958645783365773&rtpof=true&sd=true', 'https://scratch.mit.edu/projects/826186139'],
     # Add links for other lessons similarly
     # ...
 }
@@ -13,22 +14,22 @@ def open_links(links):
     for link in links:
         webbrowser.open_new_tab(link)
 
-def create_button(root, lesson_num, links):
+def create_button(root, lesson_name, links):
     def callback():
         open_links(links)
 
-    button = tk.Button(root, text=f"Lesson {lesson_num}", command=callback)
-    button.pack(padx=10, pady=5)
+    button = tk.Button(root, text=f"Lesson {lesson_name}", command=callback, background="Salmon")
+    button.pack(ipadx=19,ipady = 6, pady=5)
+
 
 # Create the main window
 root = tk.Tk()
-root.geometry("400x400")
-root.title("Lesson Automation App")
+root.geometry("400x600")
+root.title("2D Games with ROBLOX")
 
 # Create buttons for each lesson
-for i in range(1, 21):
-    if i in lessons:
-        create_button(root, i, lessons[i])
+for lesson_name, links in lessons.items():
+    create_button(root, lesson_name, links)
 
 # Start the main loop
 root.mainloop()

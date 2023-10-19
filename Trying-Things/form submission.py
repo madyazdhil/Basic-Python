@@ -6,10 +6,10 @@ import json
 from datetime import datetime
 from tkcalendar import DateEntry
 
-
 # Notion setup
 notion_api_key = "secret_dE4BUTXi4GQWLAus2k92XeaPH9fEzcPvuqJfC3NpFd7"
 notion_url = "https://api.notion.com/v1/pages"
+notion_database_id = "c1147938b13d4a538dc5ecd3f7120188"  # Replace with your Notion database ID
 
 headers = {
     "Authorization": f"Bearer {notion_api_key}",
@@ -56,41 +56,62 @@ def submit_data():
         name = name_entry.get()
         status = status_combo.get()
         assigned = assigned_combo.get()
-        date_start = datetime.strptime(start_date_entry.get(), '%m/%d/%y')
-        date_end = datetime.strptime(end_date_entry.get(), '%m/%d/%y')
         person = person_combo.get()
+        description = description_entry.get("1.0", "end-1c")
+        date_start = start_date_entry.get_date()
+        date_end = end_date_entry.get_date()
         tags = tags_combo.get()
         event_type = type_combo.get()
-        description = description_entry.get("1.0", "end-1c")
-        date_start_formatted = date_start.strftime('%A, %B %d, %Y')
-        date_end_formatted = date_end.strftime('%A, %B %d, %Y')
-        start_date_notion = convert_to_notion_datetime(date_start, start_time_entry.get_time())
-        end_date_notion = convert_to_notion_datetime(date_end, end_time_entry.get_time())
+        start_time = start_time_entry.get_time()
+        end_time = end_time_entry.get_time()
+
+        start_date_notion = convert_to_notion_datetime(date_start, start_time)
+        end_date_notion = convert_to_notion_datetime(date_end, end_time)
 
         data = {
-            "parent": {"database_id": "40d0c5e5d4874c3696d0b24cbfc27db3"},
+            "parent": {"database_id": notion_database_id},
             "properties": {
-                "Name": {"title": [{"text": {"content": name}}]},
+                "Tasks": {"title": [{"text": {"content": name}}]},
                 "Status": {"select": {"name": status}},
-                "Assigned": {"select": {"name": assigned}},
-                "Date Start": {"date": {"start": date_start_formatted}},
-                "Date End": {"date": {"end": date_end_formatted}},
-                "Person": {"select": {"name": person}},
+                "Assign": {"people": [{"name": assigned}]},
+                "Person": {"people": [{"name": person}]},
+                "Description": {"rich_text": [{"text": {"content": description}}]},
+                "Date Start": {"date": {"start": start_date_notion}},
+                "Date End": {"date": {"start": start_date_notion, "end": end_date_notion}},
                 "Tags": {"multi_select": [{"name": tags}]},
-                "Type": {"select": {"name": event_type}},
-                "Description": {"rich_text": [{"text": {"content": description}}],
-                "Start Time": {"rich_text": [{"text": {"content": start_date_notion}}],
-                "End Time": {"rich_text": [{"text": {"content": end_date_notion}}]
+                "Type": {"select": {"name": event_type}}
             }
-        }}}}
+        }
 
         response = requests.post(notion_url, headers=headers, data=json.dumps(data))
         if response.status_code == 200:
             mg.showinfo("Success", "Data submitted successfully!")
         else:
             mg.showwarning("Error", f"Failed with status code {response.status_code}")
+            print(response.text)  # Print response for debugging
     except Exception as e:
         mg.showerror("Error", f"An error occurred: {e}")
+
+
+# Update the COMBOBOX values dynamically from the Notion database
+# Update the COMBOBOX values dynamically from the Notion database
+def update_combobox_values(combo, property_name):
+    try:
+        response = requests.get(f"https://api.notion.com/v1/databases/{notion_database_id}",
+                                headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            options = []
+            for option in data['properties'][property_name]['select']['options']:
+                options.append(option['name'])
+            combo['values'] = options
+        else:
+            mg.showwarning("Error", f"Failed with status code {response.status_code}")
+            print(response.text)  # Print response for debugging
+    except Exception as e:
+        mg.showerror("Error", f"An error occurred: {e}")
+        print(e)
+        print(response.text)
 
 
 # Create a Tkinter window
@@ -108,7 +129,7 @@ status_combo = ttk.Combobox(root, values=["To-Do", "In Progress", "Done", "Archi
 status_combo.pack()
 
 tk.Label(root, text="Assigned:").pack()
-assigned_combo = ttk.Combobox(root, values=["Mr. Ahmad", "Mr. Eko", "Mr. Rifal", "Mr. Fauzan", "Ms. Sasha", "Ms. Rina", "Pak Suryadi"])
+assigned_combo = ttk.Combobox(root, values=[])  # Empty for now
 assigned_combo.pack()
 
 # Date picker for start date
@@ -132,15 +153,15 @@ end_time_entry = TimeEntry(root)
 end_time_entry.pack(padx=10, pady=5)
 
 tk.Label(root, text="Person:").pack()
-person_combo = ttk.Combobox(root, values=["Mr. Ahmad", "Mr. Eko", "Mr. Rifal", "Mr. Fauzan", "Ms. Sasha", "Ms. Rina", "Pak Suryadi"])
+person_combo = ttk.Combobox(root, values=[])  # Empty for now
 person_combo.pack()
 
 tk.Label(root, text="Tags:").pack()
-tags_combo = ttk.Combobox(root, values=["Koding Next", "ESDA", "PERSONAL"])
+tags_combo = ttk.Combobox(root, values=[])  # Empty for now
 tags_combo.pack()
 
 tk.Label(root, text="Type:").pack()
-type_combo = ttk.Combobox(root, values=["To-do", "Trial KN", "Catch-up KN", "Agenda"])
+type_combo = ttk.Combobox(root, values=[])  # Empty for now
 type_combo.pack()
 
 tk.Label(root, text="Description:").pack()
@@ -150,6 +171,12 @@ description_entry.pack()
 # Button to submit data
 submit_button = tk.Button(root, text="Submit Data", command=submit_data)
 submit_button.pack(pady=10)
+
+# Use the function to update combo boxes
+update_combobox_values(assigned_combo, 'Assign')
+update_combobox_values(person_combo, 'Person')
+update_combobox_values(tags_combo, 'Tags')
+update_combobox_values(type_combo, 'Type')
 
 # Start the main loop
 root.mainloop()
