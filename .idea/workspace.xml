@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="kelas JK - Sat - S2">
-      <change afterPath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trying-Things/form submission.py" afterDir="false" />
+    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="form v3 - corrected database ID">
+      <change afterPath="$PROJECT_DIR$/Trying-Things/PROPERTIES ID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trying-Things/integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trying-Things/notion data fetching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trying-Things/notion-get props.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trying-Things/form submission.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/form submission.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Koding Next/Teaching-Python2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Koding Next/Teaching-Python2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\Trying-Things" />
@@ -64,8 +69,8 @@
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\THU-13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.form submission">
-    <configuration name="GuessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Automate-Buttons">
+    <configuration name="Automate-Buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/GuessingGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PROPERTIES ID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson2/comparation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/PROPERTIES ID.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="integration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/integration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="magicalCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="notion-get props" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson3/magicalCalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/notion-get props.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Automate-Buttons" />
+        <item itemvalue="Python.notion-get props" />
+        <item itemvalue="Python.integration" />
         <item itemvalue="Python.form submission" />
-        <item itemvalue="Python.comparation" />
-        <item itemvalue="Python.GuessingGame" />
-        <item itemvalue="Python.magicalCalculator" />
-        <item itemvalue="Python.input" />
+        <item itemvalue="Python.PROPERTIES ID" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +221,31 @@
       <option name="project" value="LOCAL" />
       <updated>1697338405041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Personal Project - automation">
+      <option name="closed" value="true" />
+      <created>1697340021976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697340021976</updated>
+    </task>
+    <task id="LOCAL-00005" summary="form v2 - with time and date picker">
+      <option name="closed" value="true" />
+      <created>1697347483772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697347483772</updated>
+    </task>
+    <task id="LOCAL-00006" summary="form v3 - corrected database ID">
+      <option name="closed" value="true" />
+      <created>1697353775001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697353775001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +274,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="unversion viles" />
     <MESSAGE value="kelas JK - Sat - S2" />
-    <option name="LAST_COMMIT_MESSAGE" value="kelas JK - Sat - S2" />
+    <MESSAGE value="Personal Project - automation" />
+    <MESSAGE value="form v2 - with time and date picker" />
+    <MESSAGE value="form v3 - corrected database ID" />
+    <option name="LAST_COMMIT_MESSAGE" value="form v3 - corrected database ID" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
