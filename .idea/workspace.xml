@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="form v3 - corrected database ID">
-      <change afterPath="$PROJECT_DIR$/Trying-Things/PROPERTIES ID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trying-Things/integration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trying-Things/notion data fetching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trying-Things/notion-get props.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/Condition_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/if-Elif-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson4/traffic_light.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson5/Function_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exc2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson5/function_parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trying-Things/form submission.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trying-Things/form submission.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +73,8 @@
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\THU-13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Automate-Buttons">
-    <configuration name="Automate-Buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exc2">
+    <configuration name="Function_template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/Automate-Buttons.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/Function_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PROPERTIES ID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/PROPERTIES ID.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exc2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="form submission" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/form submission.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exercise1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="integration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/integration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/function_parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notion-get props" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="traffic_light" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trying-Things" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trying-Things/notion-get props.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson4/traffic_light.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Automate-Buttons" />
-        <item itemvalue="Python.notion-get props" />
-        <item itemvalue="Python.integration" />
-        <item itemvalue="Python.form submission" />
-        <item itemvalue="Python.PROPERTIES ID" />
+        <item itemvalue="Python.exc2" />
+        <item itemvalue="Python.exercise1" />
+        <item itemvalue="Python.function_parameter" />
+        <item itemvalue="Python.Function_template" />
+        <item itemvalue="Python.traffic_light" />
       </list>
     </recent_temporary>
   </component>
