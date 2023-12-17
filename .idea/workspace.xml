@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="form v3 - corrected database ID">
+    <list default="true" id="63f1b086-97e3-4795-b0f2-06ee2698b6ab" name="Changes" comment="from kn laptop -- abisyam catchup">
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson1/excersize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson1/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson2/Arithmatics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson2/Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson2/Logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson2/assignmentOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson3/Exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson3/bangun ruang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson3/guessingNumberGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK - Frii - S4/Lesson3/randommm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/CT - 5-6/ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/CT - 5-6/WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/CT - 5-6/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/CT - 5-6/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson11/FirstWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson11/buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson11/paddings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson11/window with label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson11/workingButtons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson9/GuessingNumberGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/Lesson9/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/lesson7/Dice Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/lesson7/arrayy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/lesson7/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JK-Sat-S2/lesson7/rock Paper scissor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +49,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/random.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/tkinter/__init__.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,7 +72,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Koding Next/Teaching-Python2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Other computers/My laptop/Koding Next/Teaching-Python1&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -55,15 +82,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\JK - Frii - S4" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\Trying-Things" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SUN-14\lesson17" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SUN-14" />
       <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\SAT-13" />
-      <recent name="H:\Other computers\My laptop\Koding Next\Teaching-Python1\THU-13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exc2">
-    <configuration name="Function_template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.workingButtons">
+    <configuration name="FirstWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/Function_template.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11/FirstWindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11/buttons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="paddings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11/paddings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="window with label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson5/function_parameter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11/window with label.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="traffic_light" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="workingButtons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Teaching-Python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson4/traffic_light.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JK-Sat-S2/Lesson11/workingButtons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.traffic_light" />
-        <item itemvalue="Python.function_parameter" />
-        <item itemvalue="Python.exercise1" />
-        <item itemvalue="Python.exc2" />
-        <item itemvalue="Python.Function_template" />
+        <item itemvalue="Python.workingButtons" />
+        <item itemvalue="Python.buttons" />
+        <item itemvalue="Python.paddings" />
+        <item itemvalue="Python.window with label" />
+        <item itemvalue="Python.FirstWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697353775001</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="from kn laptop -- Lesson 6 amel alex">
+      <option name="closed" value="true" />
+      <created>1699082090259</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699082090259</updated>
+    </task>
+    <task id="LOCAL-00008" summary="from kn laptop -- abisyam catchup">
+      <option name="closed" value="true" />
+      <created>1699756366202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699756366202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +313,9 @@
     <MESSAGE value="Personal Project - automation" />
     <MESSAGE value="form v2 - with time and date picker" />
     <MESSAGE value="form v3 - corrected database ID" />
-    <option name="LAST_COMMIT_MESSAGE" value="form v3 - corrected database ID" />
+    <MESSAGE value="from kn laptop -- Lesson 6 amel alex" />
+    <MESSAGE value="from kn laptop -- abisyam catchup" />
+    <option name="LAST_COMMIT_MESSAGE" value="from kn laptop -- abisyam catchup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
